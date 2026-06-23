@@ -6,7 +6,7 @@ public class Employee {
         this.id = id;
     }
 public static void main(String[] args) {
-    Employee e = new Employee(234);
+    Employee e = new Employee(420);
     System.out.println(e.id);
 }
     
